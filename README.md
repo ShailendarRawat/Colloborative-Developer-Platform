@@ -1,5 +1,7 @@
 # Real-Time Collaborative Developer Platform
 
+![App screenshot](docs/screenshot.png)
+
 A cross-platform desktop app where developers write code together in real time. It combines multi-file collaborative editing, a shared whiteboard, screen sharing, video/voice, chat and an in-app code runner in one window, so there is no need to juggle an editor, a meeting tool and a diagramming tool.
 
 ## Features
